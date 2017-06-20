@@ -1,0 +1,23 @@
+{
+  "name": "fibonacci",
+  "version": "1.0.0",
+  "description": "Generates Fibonacci Numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seclyps/Fibonacci.git"
+  },
+  "author": "Nathan Leadill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seclyps/Fibonacci/issues"
+  },
+  "homepage": "https://github.com/Seclyps/Fibonacci#readme",
+  "dependencies": {
+    "bn.js": "^4.11.6",
+    "prompt": "^1.0.0"
+  }
+}
